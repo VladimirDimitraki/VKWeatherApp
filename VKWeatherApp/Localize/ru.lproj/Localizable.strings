@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  VKWeatherApp
+
+  Created by Melania Dababi on 7/21/24.
+  
+*/
+
+
+"cell_cloudly" = "Тучи";
+"cell_rain" = "Дождь";
+"cell_fog" = "Туман";
+"cell_sunny" = "Ясно";
+"cell_clear" = "Облачно";
+"cell_lightningstorm" = "Гроза";

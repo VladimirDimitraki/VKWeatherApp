@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  VKWeatherApp
+
+  Created by Melania Dababi on 7/21/24.
+  
+*/
+
+"cell_cloudly" = "Cloudly";
+"cell_rain" = "Rain";
+"cell_fog" = "Fog";
+"cell_sunny" = "Sunny";
+"cell_clear" = "Clear";
+"cell_lightningstorm" = "Storm";
