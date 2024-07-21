@@ -1,4 +1,4 @@
-# VKWetherState  <img src="https://vk.com/favicon.ico" alt="VKontakte" width="25" height="25">
+# VKWeatherState  <img src="https://vk.com/favicon.ico" alt="VKontakte" width="25" height="25">
 </a>
 
 ## Приложение для выбора погодного явления 
